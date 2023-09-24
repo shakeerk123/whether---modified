@@ -17,7 +17,7 @@ class Constants {
     "37$degree",
     style: const TextStyle(
       fontFamily: "poppins",
-      fontSize: 65,
+      fontSize: 64,
       color: Colors.black
     ),
   );
